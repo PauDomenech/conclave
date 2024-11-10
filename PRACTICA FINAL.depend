@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1683393414 source:c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\baralla.cpp
+	"Baralla.h"
+	<iostream>
+
+1683390110 c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\baralla.h
+	"Carta.h"
+
+1685009418 c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\carta.h
+
+1685009418 source:c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\carta.cpp
+	"Carta.h"
+	<iostream>
+
+1685114900 source:c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\joc.cpp
+	"Joc.h"
+	"Baralla.h"
+	<iostream>
+	"Tauler.h"
+	"PilaCartes.h"
+	"Seguidors.h"
+
+1685126339 c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\joc.h
+	"Baralla.h"
+	"Jugador.h"
+	"PilaCartes.h"
+	"Tauler.h"
+	"Seguidors.h"
+
+1685126129 source:c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\pilacartes.cpp
+	"PilaCartes.h"
+	<iostream>
+
+1685126123 source:c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\tauler.cpp
+	"Tauler.h"
+	<iostream>
+	<iomanip>
+	"Seguidors.h"
+
+1685126152 c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\tauler.h
+	"Carta.h"
+	"Baralla.h"
+	"PilaCartes.h"
+	"Seguidors.h"
+
+1685051120 source:c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\jugador.cpp
+	"Jugador.h"
+	"Baralla.h"
+
+1685051120 c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\jugador.h
+	<iostream>
+	"Baralla.h"
+
+1684872444 source:c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\main.cpp
+	<iostream>
+	"Joc.h"
+	<limits>
+	"Jugador.h"
+
+1685126116 c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\pilacartes.h
+	"Baralla.h"
+	"Carta.h"
+
+1685010029 c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\seguidors.h
+	"Carta.h"
+
+1685009935 source:c:\users\pau domènech\desktop\mtp\mtp 2\acme 10\seguidors.cpp
+	"Seguidors.h"
+	<iostream>
+	<iomanip>
+
